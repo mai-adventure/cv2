@@ -108,6 +108,7 @@ h3 {
   transition: .5s;
   font-weight: bold;
   margin: 50px;
+  display:block;
 
 }
 .btn:hover{
@@ -121,10 +122,7 @@ background-color: rgb(255, 0, 0);
 .Breakfast {
   padding-bottom: 30px;
 }
-.mai {
-  width: 12%;
-  height: auto;
-}
+
 .mai {
   width: 12%;
   height: auto;
