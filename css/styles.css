@@ -35,8 +35,8 @@ h3 {
 
 hr {
   border-color: #EAF6F6;
-  border-style: none;
-  border-top-style: dotted;
+  border-bottom: none;
+  border: dotted;
   border-width: 6px;
   width: 5%;
   margin: 100px auto;
@@ -99,12 +99,12 @@ p {
 }
 
 .middle-container {
-  margin: 80px auto;
+  margin: 100px auto;
 }
 
 .bottom-container {
   background-color: #66BFBF;
-  margin: 100px auto;
+  padding: 50px  0 50px;
   color: #EAF6F6;
 }
 
@@ -123,7 +123,7 @@ p {
   -webkit-border-radius: 18;
   -moz-border-radius: 18;
   border-radius: 18px;
-  font-family: 'Merriweather',serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 27px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
@@ -167,7 +167,7 @@ Hover end colour: #2bc4ad
 }
 
 .Breakfast {
-  margin: 40px auto 50PX;
+  margin: 40px auto 60PX;
   width: 50%;
 }
 
