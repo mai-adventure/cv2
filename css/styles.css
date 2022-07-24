@@ -106,6 +106,8 @@ p {
   background-color: #66BFBF;
   padding: 50px  0 50px;
   color: #EAF6F6;
+  display: block;
+  margin: 90px 0;
 }
 
 .footer-link {
